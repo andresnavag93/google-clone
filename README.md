@@ -1,6 +1,4 @@
-# google-clone
-
-# Mokepon
+# Google Clone
 
 ### Technologies / Tools
 
